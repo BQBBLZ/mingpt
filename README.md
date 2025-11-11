@@ -1,17 +1,12 @@
-miniGPT（MindSpore）训练/微调示例
-
 本仓库包含基于 MindSpore 的 miniGPT 训练/微调示例。
 
-环境要求
+## 环境要求
+- **Python** ≥ 3.9  
+- **MindSpore (ms)** ≥ 2.6.0  
+- **CANN** ≥ 8.1.RC1（仅 Ascend 场景必需；请确保驱动/CANN/固件版本与 MindSpore 匹配）
 
-Python ≥ 3.9
-
-MindSpore (ms) ≥ 2.6.0
-
-CANN ≥ 8.1.RC1（仅 Ascend 场景必需；请确保驱动/CANN/固件版本与 MindSpore 匹配）
-
-MindSpore 的安装命令请参考官方指引：
-https://www.mindspore.cn/install/
+> MindSpore 的安装命令请参考官方指引：  
+> https://www.mindspore.cn/install/
 
 运行笔记本（.ipynb）
 
