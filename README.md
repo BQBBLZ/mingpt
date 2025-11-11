@@ -35,5 +35,6 @@ pip install -r requirements.txt
 │  ├─ model.py
 │  ├─ trainer.py
 │  └─ utils.py
+├─ mingpt_fintune_lora.ipynb
 └─ README.md
 ```
