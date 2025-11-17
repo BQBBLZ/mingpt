@@ -1,6 +1,6 @@
-# miniGPT（MindSpore）训练/微调示例
+# minGPT（MindSpore）训练/微调示例
 
-本仓库包含基于**MindSpore**的miniGPT训练/微调示例。
+本仓库包含基于**MindSpore**的minGPT训练/微调示例。
 
 ## 环境要求
 - **Python** ≥ 3.9  
